@@ -1,0 +1,6 @@
+/* pages/home/home.wxss */
+.hello {
+  color: darkorange;
+  font-size: 50px;
+  align: right;
+}
